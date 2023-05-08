@@ -1,0 +1,2 @@
+# scdlGUI
+Soundcloud Downloader GUI
